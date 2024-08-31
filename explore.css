@@ -1,0 +1,70 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 10px auto;
+    width: 260px;
+    border-radius: 14px;
+    height: 250px;
+   
+
+}
+.parents{
+    margin-top: 30px;
+  display: flex;
+  justify-content: space-between ;
+   
+    
+}
+.img{
+    width: 100%;
+    border-radius: 14px;
+    
+}
+.img-box{
+    position: relative;
+}
+
+.sponcered{
+    position:absolute;
+    width: 60px;
+    background-color: rgba(59, 56, 57, 0.748);
+    border-radius: 5px;
+    color: white;
+    top: 10px;
+    left: 10px;
+    font-size: 12px;
+    padding:3px 3px 3px 5px;
+
+    
+}
+.offer{
+    background-color: rgb(88, 135, 217);
+    position: absolute;
+    bottom: 20px;
+    padding: 5px;
+}
+.time{
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    background-color: white;
+    padding: 2px 6px 2px 6px;
+    border-radius: 5px ;
+}
+.heading{
+    margin-bottom: 9px ;
+
+}
+.sub-heading{
+    margin-top: 0;
+    color: rgb(101, 98, 98);
+    font-size: 17px;
+}
+.last-section{
+    border-top: 1px solid lightgray;
+    padding: 5px;
+    color: rgb(101, 98, 98);;
+}

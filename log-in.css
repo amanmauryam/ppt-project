@@ -1,0 +1,79 @@
+.container{
+    height: 20vh;
+    width: 20vw;
+    margin: 10px auto;
+    text-align: center;
+    
+  
+}
+    
+
+
+
+.main-header {
+    font-family: "Abril Fatface", serif;
+    color: lightseagreen;
+    font-size:50px ;
+    margin-top: 40px;
+    margin-bottom: 50px;
+   
+  }
+  .header{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+  #email{
+    width: 100%;
+    font-size: larger;
+    block-size: 45px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+    border: 2px solid rgb(217, 222, 226);
+  }
+  #password{
+    width: 100%;
+    block-size: 45px;
+    font-size: larger;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    padding-left: 20px;
+    border: 2px solid rgb(217, 222, 226);
+
+
+  }
+  .btn{
+   background-color: lightseagreen;
+   color: white;
+   padding: 10px 20px 10px 20px ;
+   border-color: white;
+   border-radius: 40px;
+   font-size: 20px;
+   margin-bottom: 40px;
+  }
+  .member{
+    font-family: sans-serif;
+    color: rgb(103, 107, 110);
+  }
+  .sign-in{
+    color: black;
+  }
+  .last-para{
+    font-family: sans-serif;
+    color: rgb(103, 107, 110);
+    
+  }
+  
+  .forget{
+    font-family: sans-serif;
+    color: black;
+  }
+ 
+  .privacy{
+    color: rgb(103, 107, 110);
+  }
+  .term{
+    color: rgb(103, 107, 110);
+  }
